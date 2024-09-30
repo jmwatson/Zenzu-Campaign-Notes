@@ -1,0 +1,2 @@
+- Located in [[Opalia (Capitol – Center)]]
+- 1 GP for a room for the night

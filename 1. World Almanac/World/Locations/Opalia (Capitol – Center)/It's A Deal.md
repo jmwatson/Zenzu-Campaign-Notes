@@ -1,0 +1,2 @@
+- Owned by Li Zhu Kong
+- General store

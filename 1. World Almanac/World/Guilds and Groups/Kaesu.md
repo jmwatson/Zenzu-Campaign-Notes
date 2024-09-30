@@ -1,0 +1,3 @@
+- **Leader**: [[Namso Leejong (Kaesu Leader)]]
+- The most mystical tribe
+- Based off **Korea**

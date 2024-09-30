@@ -1,0 +1,3 @@
+- Main city in the nation of [Zenzu](Zenzu)
+- Houses the [Council of Five](Council%20of%20Five.md)
+- Only known, permanent city in [Zenzu](Zenzu)

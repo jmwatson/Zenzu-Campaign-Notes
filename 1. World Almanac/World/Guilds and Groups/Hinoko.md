@@ -1,0 +1,6 @@
+- **Leader**: [[Shodaku Kimuna (Hinoko Leader)]]
+- During the [Fallen Angels war](Fallen%20Angels%20War.md) 800 years ago, this tribe sided with the Angels, and since their defeat, this tribe has been looked down upon by the others.
+    - This tribe has faced EIGHT HUNDRED YEARS of discrimination because it has been ingrained into society.
+- Though the majority regret aiding the Angels, they often feel they are overly mistreated, even after all the time that has passed.
+- Values self-sufficiency, strength in oneself, fervent in their beliefs
+- Based off **Japan**

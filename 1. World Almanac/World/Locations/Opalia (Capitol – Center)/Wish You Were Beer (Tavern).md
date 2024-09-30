@@ -1,0 +1,2 @@
+- In [[Opalia (Capitol – Center)]]
+- Not called 'The Half Pint' despite being infested by halflings.

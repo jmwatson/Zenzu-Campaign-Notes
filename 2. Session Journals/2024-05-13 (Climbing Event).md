@@ -1,0 +1,13 @@
+- We climbed a thing
+- Cephos convinces Toshiro to drink some of his moon juice to help him catch flags
+- To prep, Toshiro drinks a bit of his moon juice to help him with catching flags and Cephos gives Toshiro his ring of dexterity to help out as well
+- Right before starting the event, Toshiro and Cephos huddle up to give each other a pep talk and Cephos asks Toshiro to hit him in face
+- Toshiro hits Cephos a few times in the face which unlocks Cephos's Yaowu abilities and he comes back and manages to hit Toshiro who was honestly surprised he hadn't been hit yet
+- Cephos grumbles about Toshiro using lightning on him on the last hit
+- Lots of flags have been caught and we're making decent progress
+- Cephos stumbles a bit between the second and third ledges
+- After the stumble Cephos and Toshiro hit their stride and start catching and climbing so quickly
+- At this point the crowd is going nuts
+- After Cephos makes the last ledge he has trouble with the flags adding to their score but still a very quick time
+- Finally, he roars at the mountain and the last flag pops out with Toshiro easily catching it
+- "That's not fair, he was cheating!" yelled from the crowd (Lien Sho)

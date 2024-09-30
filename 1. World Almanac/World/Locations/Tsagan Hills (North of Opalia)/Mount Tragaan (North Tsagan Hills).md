@@ -1,0 +1,3 @@
+- Place of note in the [Tsagan Hills](Tsagan%20Hills)
+- Giant eagles reside here
+- Hido was trying to capture/kill the giant eagles

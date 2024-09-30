@@ -1,0 +1,5 @@
+- **Leader**: [Basayar Uurdogo (Temukan Leader)](Basayar%20Uurdogo%20(Temukan%20Leader).md)
+- The most in tune with nature
+- This tribe first proposed the idea of the Cycle of Renewal many centuries ago.
+- Excellent horse handlers
+- Based off **Mongolia**

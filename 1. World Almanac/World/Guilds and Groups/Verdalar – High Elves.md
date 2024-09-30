@@ -1,0 +1,3 @@
+- **Leader**: [[Relera Imministel]]
+- The high elves don't participate in the Cycle of Renewal, but they respect the other tribes and largely keep to themselves in the northeastern part of Zenzu, along the border with [Obsos](Obsos).
+- Also leads the [Council of Five](Council%20of%20Five.md) in [[Opalia (Capitol – Center)]].

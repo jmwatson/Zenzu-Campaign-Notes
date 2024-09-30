@@ -1,0 +1,9 @@
+- We get ready for our first event
+- The event started pretty tamely with just a few folks getting hindered
+- Then as some leaders started emerging they got targeted by the others
+- We fell to 5th from last and started hindering the leaders that we could
+- We managed to make up some of the gap between us and the leaders
+- As we started to take the lead again we had everyone gunning for us so Bayarma used her ability to blind people to affect the teams targeting us
+- As we neared the final push a spell disrupted our support boat and 3 of the 5 ended up in the water
+- At this point though we had built up enough of a lead that even though we were targeted Toshiro shrugged off the spells cast on him and finished in first place
+- As we finished the event an old friend of the group came up to congratulate us and give Toshiro another bottle of Moon Juice

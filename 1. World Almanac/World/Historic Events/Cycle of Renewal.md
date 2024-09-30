@@ -1,0 +1,1 @@
+- Each region's clan rotates counter clockwise around Opalia ever year

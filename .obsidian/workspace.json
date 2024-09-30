@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "ac4fbb2952f5c876",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49465862fca7f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621300bc98dbe33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1aee16f6272ef5a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187e21e720daf1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Guilds and Groups/Council of Five.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4a02ccd674a235c",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c745c18e36794a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d19c2e8b3c55fa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c0dbf4259b48ffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c41ba29c2322ede0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e530125798f700a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff52567f8c2778d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50968e2914c0020",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3157f0ae38ca9513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ead7747afe868f08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7ce820ca1bcc127",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "09fa94e3ac36edae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "138afc24aa36dfce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a27462cab994878",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "621300bc98dbe33b",
+  "lastOpenFiles": [
+    "1. World Almanac/World/Non-Player Characters/Chief Eigara Daryu.md",
+    "1. World Almanac/World/Non-Player Characters/Basayar Uurdogo (Temukan Leader).md",
+    "1. World Almanac/World/Non-Player Characters/new NPC.md",
+    "z_Assets/Misc/ImagePlaceholder.png",
+    "z_Assets/Misc",
+    "z_Templates/NPC.md",
+    "1. The Party/Toshiro (Jake).md",
+    "z_Templates/Player Character.md",
+    "1. World Almanac/World/Non-Player Characters/Eigara Gotuan.md",
+    "1. World Almanac/World/Guilds and Groups/Council of Five.md",
+    "1. World Almanac/World/Non-Player Characters/Relera Imministel.md",
+    "1. World Almanac/World/Guilds and Groups/Verdalar – High Elves.md",
+    "1. World Almanac/World/Non-Player Characters/Eigara Altei.md",
+    "OneNote/Cheng Campaign/People/Eigara Clan (Temukan - Tsagan Hills)/Eigara Clan (Temukan - Tsagan Hills).md",
+    "1. World Almanac/World/Guilds and Groups/Eigara Clan.md",
+    "1. World Almanac/World/Non-Player Characters/Chiset.md",
+    "1. World Almanac/World/Guilds and Groups/Dark Chosen.md",
+    "1. World Almanac/World/Lore/Giant Eagles.md",
+    "1. World Almanac/World/Items/Hidden Market Patch.md",
+    "1. The Party/Balam (Marianne).md",
+    "2. Session Journals/2023-08-06.md",
+    "OneNote/Cheng Campaign/Factions/Untitled-20240830122530.md",
+    "1. World Almanac/World/Non-Player Characters/Ukki.md",
+    "1. World Almanac/World/Non-Player Characters/Han Li Ngo.md",
+    "1. World Almanac/World/Runes",
+    "1. World Almanac/World/Non-Player Characters",
+    "1. World Almanac/World/Items",
+    "1. World Almanac/World/Guilds and Groups",
+    "1. World Almanac/World/Deities",
+    "1. World Almanac/World",
+    "1. World Almanac/Modules",
+    "z_Assets/2023-08-20.md/Exported image 20240830122434-0.png",
+    "z_Templates",
+    "z_Assets",
+    "2. Session Journals/2024-08-25.md",
+    "2. Session Journals/2024-08-11 (Lifting Event).md",
+    "2. Session Journals/2024-07-28 (Running Event).md",
+    "z_Assets/Renzo (Relera AideAssassin).md/Exported image 20240830122637-0.png",
+    "z_Assets/Relera Imministel (High Elf Leader - Opalia).md/Exported image 20240830122633-0.png",
+    "z_Assets/Merric (Zack).md/Exported image 20240830122622-3.png",
+    "z_Assets/Merric (Zack).md/Exported image 20240830122622-2.png",
+    "z_Assets/Merric (Zack).md/Exported image 20240830122622-1.png",
+    "z_Assets/Merric (Zack).md/Exported image 20240830122622-0.png",
+    "z_Assets/2023-08-06.md/Exported image 20240830122427-1.png",
+    "z_Assets/2023-08-06.md/Exported image 20240830122427-0.png"
+  ]
+}

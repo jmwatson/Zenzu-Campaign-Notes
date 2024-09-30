@@ -1,0 +1,1 @@
+Silun (Bayarma's sister) came to Opalia to tell Bayarma that her brother Arslan is dead and her brother Kutlugh is missing.

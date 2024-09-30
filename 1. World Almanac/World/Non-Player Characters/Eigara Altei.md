@@ -1,0 +1,4 @@
+- Son of Chief
+- Blacksmith
+- [Wanted ore]((Tsagan%20Hills)%20Mine%20some%20Iron) – see foreman Gantul - COMPLETE
+- Added blue ore to Toshiro's Halberd

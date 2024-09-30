@@ -1,0 +1,4 @@
+- **Leader**: [King Edwin Alizar XIII](King%20Edwin%20Alizar%20XIII)
+- Part of an island continent
+- Eastern neighbor of [Zenzu](Zenzu)
+- Defeat of Belthoriel (60 years ago)

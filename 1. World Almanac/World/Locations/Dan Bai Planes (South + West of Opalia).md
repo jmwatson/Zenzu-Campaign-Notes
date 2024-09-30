@@ -1,0 +1,2 @@
+- Planes to the south and west (possibly all the plains surrounding [[Opalia (Capitol – Center)]]
+- [[Longhu]] currently reside here
