@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122654-0.png)  
+![[Chief Eigara Daryu.png]]
 
 - At least 6' tall
 - Really big guy

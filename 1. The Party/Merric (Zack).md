@@ -45,11 +45,11 @@
     - Look into possible legal avenues to acquire a bar that had many people die in it.
    
 
-![Exported image](Exported%20image%2020240830122622-0.png)
+![[Myeong Hwan.png]]
 
 Myeong Hwan (Deceased)
 
-![Exported image](Exported%20image%2020240830122622-1.png)
+![[Garin Kaidu.png]]
 
 Garin Kaidu
 
@@ -59,12 +59,12 @@ Garin Kaidu
     - Was ordered to shut down the bar to join the group
     - Hired Myeong Hwan to poison the patrons and frame bar owners
 
-![Exported image](Exported%20image%2020240830122622-2.png)
+![[Zant.png]]
 
 Zant  
 Master Assassin
 
-![Exported image](Exported%20image%2020240830122622-3.png)  
+![[Lai Tenko.png]]  
 
 Judge Lai Tenko
 

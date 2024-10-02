@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122658-0.png)  
+![Exported image](Wu%20Fei%20Yi.png)  
 
 Wu Fei Yi – Weirdo tanner in Opalia who may be able to work with demon hide
 

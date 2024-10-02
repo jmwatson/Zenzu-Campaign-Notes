@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122709-0.png)  
+![[Diyu Korros.png]]
 
 Diyu Korros  
 Northern Fang of the Sehi Jujin  

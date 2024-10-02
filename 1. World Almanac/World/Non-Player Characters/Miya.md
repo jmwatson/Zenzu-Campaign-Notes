@@ -1,4 +1,4 @@
-![[Exported image 20240830122427-3.png]]
+![[Miya.png]]
 - Hammer/Mace
 - Met with [[Ukki]], [[Izum]], and [[Chiset]] around the infected village
 - Keeps watch the night we spent with them

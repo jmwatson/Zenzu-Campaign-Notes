@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122700-0.png)
+![Exported image](Elisha%20(Tasha%20Gensling.png)
 
 - Was married to the head of House Gensling
 - Fled from Obsos to the east and then settled in Vermilias with the aid of Masi Hanari

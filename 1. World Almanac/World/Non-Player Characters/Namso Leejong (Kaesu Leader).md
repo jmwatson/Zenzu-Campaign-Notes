@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122648-0.png)
+![Exported image](Namso%20Leejong.png)
 
 - Leader of the [[Kaesu]]
 - Encountered in passing in [[Opalia (Capitol – Center)]] fortress

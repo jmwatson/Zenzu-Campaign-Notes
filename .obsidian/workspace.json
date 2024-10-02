@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "621300bc98dbe33b",
+            "id": "5a5d359f7d37826a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Session Journals/2024-05-26 (Unarmed Combat).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "703ea0eccac56b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/2023-08-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1aee16f6272ef5a6",
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Session Journals/2023-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Session Journals/2023-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Session Journals/2023-08-13.md"
               }
             }
           },
@@ -192,52 +206,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "621300bc98dbe33b",
+  "active": "703ea0eccac56b62",
   "lastOpenFiles": [
-    "1. World Almanac/World/Non-Player Characters/Chief Eigara Daryu.md",
-    "1. World Almanac/World/Non-Player Characters/Basayar Uurdogo (Temukan Leader).md",
-    "1. World Almanac/World/Non-Player Characters/new NPC.md",
-    "z_Assets/Misc/ImagePlaceholder.png",
-    "z_Assets/Misc",
-    "z_Templates/NPC.md",
-    "1. The Party/Toshiro (Jake).md",
-    "z_Templates/Player Character.md",
-    "1. World Almanac/World/Non-Player Characters/Eigara Gotuan.md",
-    "1. World Almanac/World/Guilds and Groups/Council of Five.md",
-    "1. World Almanac/World/Non-Player Characters/Relera Imministel.md",
-    "1. World Almanac/World/Guilds and Groups/Verdalar – High Elves.md",
-    "1. World Almanac/World/Non-Player Characters/Eigara Altei.md",
-    "OneNote/Cheng Campaign/People/Eigara Clan (Temukan - Tsagan Hills)/Eigara Clan (Temukan - Tsagan Hills).md",
-    "1. World Almanac/World/Guilds and Groups/Eigara Clan.md",
-    "1. World Almanac/World/Non-Player Characters/Chiset.md",
-    "1. World Almanac/World/Guilds and Groups/Dark Chosen.md",
-    "1. World Almanac/World/Lore/Giant Eagles.md",
-    "1. World Almanac/World/Items/Hidden Market Patch.md",
-    "1. The Party/Balam (Marianne).md",
-    "2. Session Journals/2023-08-06.md",
-    "OneNote/Cheng Campaign/Factions/Untitled-20240830122530.md",
-    "1. World Almanac/World/Non-Player Characters/Ukki.md",
-    "1. World Almanac/World/Non-Player Characters/Han Li Ngo.md",
-    "1. World Almanac/World/Runes",
-    "1. World Almanac/World/Non-Player Characters",
-    "1. World Almanac/World/Items",
-    "1. World Almanac/World/Guilds and Groups",
-    "1. World Almanac/World/Deities",
-    "1. World Almanac/World",
-    "1. World Almanac/Modules",
-    "z_Assets/2023-08-20.md/Exported image 20240830122434-0.png",
-    "z_Templates",
-    "z_Assets",
+    "z_Assets/NPCs/Vermillian's at the Tower/Marcus Alexander.png",
+    "z_Assets/NPCs/Vermillian's at the Tower/Female.png",
+    "z_Assets/NPCs/Riku Masay/Riku Masey.png",
+    "z_Assets/NPCs/Zhao Lu/Zhao Lu.png",
+    "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-3.png",
+    "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-1.png",
+    "z_Assets/2024-03-17.md/Exported image 20240830122453-1.png",
     "2. Session Journals/2024-08-25.md",
+    "z_Assets/Groups",
+    "z_Assets/NPCs",
+    "z_Assets/2024-08-25.md/Exported image 20240830122508-0.png",
     "2. Session Journals/2024-08-11 (Lifting Event).md",
+    "z_Assets/Groups/Lein Sho's Five",
+    "z_Assets/Groups/Lein Sho's Five/Lein Sho's Five.png",
     "2. Session Journals/2024-07-28 (Running Event).md",
-    "z_Assets/Renzo (Relera AideAssassin).md/Exported image 20240830122637-0.png",
-    "z_Assets/Relera Imministel (High Elf Leader - Opalia).md/Exported image 20240830122633-0.png",
-    "z_Assets/Merric (Zack).md/Exported image 20240830122622-3.png",
-    "z_Assets/Merric (Zack).md/Exported image 20240830122622-2.png",
-    "z_Assets/Merric (Zack).md/Exported image 20240830122622-1.png",
-    "z_Assets/Merric (Zack).md/Exported image 20240830122622-0.png",
-    "z_Assets/2023-08-06.md/Exported image 20240830122427-1.png",
-    "z_Assets/2023-08-06.md/Exported image 20240830122427-0.png"
+    "z_Assets/NPCs/Tseren/Tseren.png",
+    "z_Assets/NPCs/Sujin/Sujin.png",
+    "z_Assets/NPCs/Sujin",
+    "z_Assets/NPCs/Tseren",
+    "2. Session Journals/2024-05-26 (Unarmed Combat).md",
+    "2. Session Journals/2024-04-14.md",
+    "z_Assets/NPCs/Monkhba Esen",
+    "2. Session Journals/2024-04-21.md",
+    "z_Assets/NPCs/Zhao Lu",
+    "z_Assets/NPCs/Sunwei Tianfu",
+    "2. Session Journals/2024-02-11.md",
+    "1. The Party/Bayarma (Javonni).md",
+    "1. World Almanac/World/Non-Player Characters/Chief Eigara Daryu.md",
+    "2. Session Journals/2023-08-27.md",
+    "1. World Almanac/World/Non-Player Characters/Diyu Korros.md",
+    "1. World Almanac/World/Non-Player Characters/Eigara Salkei.md",
+    "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
+    "2. Session Journals/2023-09-22.md",
+    "2. Session Journals/2024-02-25.md",
+    "1. World Almanac/World/Guilds and Groups/Halcyon Heroes.md",
+    "2. Session Journals/2024-01-14.md",
+    "1. World Almanac/World/Items/Hidden Market Patch.md",
+    "1. World Almanac/World/Non-Player Characters/Hido Iwarui (Dead Bad Guy of Frogs & Eagles).md",
+    "2. Session Journals/2024-03-08.md",
+    "2. Session Journals/2024-04-08.md",
+    "1. World Almanac/World/Non-Player Characters/Izum.md",
+    "2. Session Journals/2024-03-03.md",
+    "1. World Almanac/World/Non-Player Characters/Keri.md",
+    "1. World Almanac/World/Non-Player Characters/Kiihar.md",
+    "z_Assets/NPCs/Lien Sho",
+    "z_Assets/NPCs/Keisu Priestess"
   ]
 }

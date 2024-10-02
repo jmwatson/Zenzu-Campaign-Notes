@@ -4,4 +4,4 @@
     
     - This lichen might be Aisen Lichen, which Keri warned us as being a very strong poison.
 
-![Exported image](Exported%20image%2020240830122708-0.png)
+![[Kiihar.png]]

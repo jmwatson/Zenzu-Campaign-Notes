@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122641-0.png)  
+![[Li Zhu Kong.png]]
 
 - The Smarmy Shopkeeper
 - Owner of General Store **It's A Deal** just north of **Wish You Were Beer**

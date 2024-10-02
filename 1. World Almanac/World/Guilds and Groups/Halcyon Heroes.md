@@ -1,1 +1,1 @@
-![Exported image](Exported%20image%2020240830122530-0.png)
+![[Halcyon Heroes.png]]

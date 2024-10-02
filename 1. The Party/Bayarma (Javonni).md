@@ -1,7 +1,7 @@
 - Human Paladin
 - [https://www.dndbeyond.com/characters/82544418](https://www.dndbeyond.com/characters/82544418)
 
-![ORGANIZATIONS Temukan Tribe Semsochi - Adoptive Father Cirina - Adoptive Mother Adopted Siblings Kutlugh - Brother who is married to Attansarnai Kiritlugh Gegeen - Brother Arslan - Brother Silun Gorgelji Gegeen - Sister Alagh Yid Gegeen - Sister Etugen Eke Gegeen - Sister Oyuun - Sister Biological Parents Shiraghul Jayaatu - Father Cota Gegeen - Mother Horse Nan-w - Chimeg ](Exported%20image%2020240830122620-0.png)
+![[Bayarma.png]]
 
 Oyuun – Tanner  
 Has daughters and sons presently unnamed

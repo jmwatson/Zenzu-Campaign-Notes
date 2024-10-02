@@ -17,10 +17,10 @@
 - Toshiro is easily taken out by Riku
 - For the final fight, the matchup is now Lien Sho vs Mixed 6
 
-![Exported image](Exported%20image%2020240830122502-0.png)  
+![[Relera Imministel.png]]
 
 ![Exported image](Exported%20image%2020240830122502-1.png)  
 
-![Exported image](Exported%20image%2020240830122502-2.png)  
+![[Monkhba Esen.png]]
 
-![Exported image](Exported%20image%2020240830122502-3.png)
+![[Riku Masey.png]]

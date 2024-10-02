@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020240830122639-0.png)
+![[Hido Iwarui.png]]
 
 - Leader of a group of mercenaries that were hired to clear out some poisonous toads from the croplands south of [[Opalia (Capitol – Center)]].
 - White in the image is more a dark grey.

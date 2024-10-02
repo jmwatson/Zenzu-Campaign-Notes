@@ -12,6 +12,6 @@
 - Cephos is going to try to offer his services to cure Lord Shodaku and maybe find out more about what is making him ill
 - Cephos and Toshiro immediately think that he might have the fulminating death
 
-![Exported image](Exported%20image%2020240830122505-0.png)  
+![[Sujin.png]]
 
-![Exported image](Exported%20image%2020240830122505-1.png)
+![[Tseren.png]]

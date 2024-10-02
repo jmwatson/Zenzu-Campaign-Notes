@@ -14,6 +14,6 @@ When trying to save the Eagles in the battle with Hido's crew, the dead one burs
  
 This image is affixed to Teafing and to Skashoon's forearm:  
 
-![Exported image](Exported%20image%2020240830122623-0.png)  
+![Exported image](z_Assets/NPCs/Skashoon/Rune.png)  
 
 Teafing literally means 'Wind' in Olde Stellosian
