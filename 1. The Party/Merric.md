@@ -1,3 +1,4 @@
+**Player**: Zack
 - Halfling Warlock
 - [https://www.dndbeyond.com/characters/81607186](https://www.dndbeyond.com/characters/81607186)
 - Owner of the [[Wish You Were Beer]] tavern in [[Opalia (Capitol – Center)]] - Halfling friends arrested because deaths at the bar

@@ -1,0 +1,4 @@
+- Deposed house from Obsos
+- **Head**: Levain Gensling (formerly presumed dead)
+- **Other noteable figures**: [[Elisha (Tasha Gensling)]]
+- **Notes**: [[Toshiro (Svender Berg)]] 

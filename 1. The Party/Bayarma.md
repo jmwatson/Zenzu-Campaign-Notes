@@ -1,3 +1,4 @@
+**Player**: Javonni
 - Human Paladin
 - [https://www.dndbeyond.com/characters/82544418](https://www.dndbeyond.com/characters/82544418)
 

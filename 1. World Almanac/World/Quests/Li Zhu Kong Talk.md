@@ -1,8 +1,8 @@
-- Met with [[Merric (Zack)]] at the bar being mysterious when he was cleaning it
+- Met with [[Merric]] at the bar being mysterious when he was cleaning it
 - Says he can help with the bar situation (Does he know about the poison?!?!)
 - Maybe has info on where to find [[Shodaku Kimuna (Hinoko Leader)]]
  
-- [[Merric (Zack)]] not wanted from his understanding
+- [[Merric]] not wanted from his understanding
 - Friends being kept in holding cell in the citadel
     
     - Friends are trying to contact me

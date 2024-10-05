@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a5d359f7d37826a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/2024-05-26 (Unarmed Combat).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "703ea0eccac56b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/2023-08-13.md",
+                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1aee16f6272ef5a6",
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Session Journals/2023-08-13.md",
+                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Session Journals/2023-08-13.md",
+                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Session Journals/2023-08-13.md"
+                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md"
               }
             }
           },
@@ -208,13 +194,31 @@
   },
   "active": "703ea0eccac56b62",
   "lastOpenFiles": [
+    "1. World Almanac/World/Non-Player Characters/Chief Zho (A Longhu Clan Elder).md",
+    "1. The Party/Toshiro (Svender Berg).md",
+    "2. Session Journals/2024-05-26 (Unarmed Combat).md",
+    "1. The Party/Balam.md",
+    "1. The Party/Bayarma.md",
+    "1. The Party/Cephos.md",
+    "1. The Party/Merric.md",
+    "1. The Party/Skashoon.md",
+    "1. World Almanac/World/Guilds and Groups/House Gensling.md",
+    "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
+    "1. World Almanac/World/Non-Player Characters/Chiset.md",
+    "z_Assets/Elisha (Tasha Gensling)/Elisha (Tasha Gensling).png",
+    "1. World Almanac/World/Non-Player Characters/Untitled",
+    "z_Assets/NPCs/Wu Sifang/Wu Sifang.png",
+    "z_Assets/NPCs/Unnamed Fighter",
+    "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-3.png",
+    "z_Assets/NPCs/Wu Sifang",
+    "z_Assets/NPCs/Unnamed Fighter/Fighter.png",
+    "2. Session Journals/2024-03-17.md",
+    "2. Session Journals/2023-08-13.md",
+    "Lai.md",
     "z_Assets/NPCs/Vermillian's at the Tower/Marcus Alexander.png",
     "z_Assets/NPCs/Vermillian's at the Tower/Female.png",
     "z_Assets/NPCs/Riku Masay/Riku Masey.png",
     "z_Assets/NPCs/Zhao Lu/Zhao Lu.png",
-    "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-3.png",
-    "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-1.png",
-    "z_Assets/2024-03-17.md/Exported image 20240830122453-1.png",
     "2. Session Journals/2024-08-25.md",
     "z_Assets/Groups",
     "z_Assets/NPCs",
@@ -223,36 +227,18 @@
     "z_Assets/Groups/Lein Sho's Five",
     "z_Assets/Groups/Lein Sho's Five/Lein Sho's Five.png",
     "2. Session Journals/2024-07-28 (Running Event).md",
-    "z_Assets/NPCs/Tseren/Tseren.png",
-    "z_Assets/NPCs/Sujin/Sujin.png",
     "z_Assets/NPCs/Sujin",
     "z_Assets/NPCs/Tseren",
-    "2. Session Journals/2024-05-26 (Unarmed Combat).md",
     "2. Session Journals/2024-04-14.md",
     "z_Assets/NPCs/Monkhba Esen",
     "2. Session Journals/2024-04-21.md",
     "z_Assets/NPCs/Zhao Lu",
-    "z_Assets/NPCs/Sunwei Tianfu",
     "2. Session Journals/2024-02-11.md",
-    "1. The Party/Bayarma (Javonni).md",
     "1. World Almanac/World/Non-Player Characters/Chief Eigara Daryu.md",
     "2. Session Journals/2023-08-27.md",
     "1. World Almanac/World/Non-Player Characters/Diyu Korros.md",
     "1. World Almanac/World/Non-Player Characters/Eigara Salkei.md",
     "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
-    "2. Session Journals/2023-09-22.md",
-    "2. Session Journals/2024-02-25.md",
-    "1. World Almanac/World/Guilds and Groups/Halcyon Heroes.md",
-    "2. Session Journals/2024-01-14.md",
-    "1. World Almanac/World/Items/Hidden Market Patch.md",
-    "1. World Almanac/World/Non-Player Characters/Hido Iwarui (Dead Bad Guy of Frogs & Eagles).md",
-    "2. Session Journals/2024-03-08.md",
-    "2. Session Journals/2024-04-08.md",
-    "1. World Almanac/World/Non-Player Characters/Izum.md",
-    "2. Session Journals/2024-03-03.md",
-    "1. World Almanac/World/Non-Player Characters/Keri.md",
-    "1. World Almanac/World/Non-Player Characters/Kiihar.md",
-    "z_Assets/NPCs/Lien Sho",
-    "z_Assets/NPCs/Keisu Priestess"
+    "2. Session Journals/2023-09-22.md"
   ]
 }

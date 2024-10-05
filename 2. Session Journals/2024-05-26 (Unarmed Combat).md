@@ -19,7 +19,7 @@
 
 ![[Relera Imministel.png]]
 
-![Exported image](Exported%20image%2020240830122502-1.png)  
+![Exported image](Wu%20Sifang.png)  
 
 ![[Monkhba Esen.png]]
 

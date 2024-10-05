@@ -1,2 +1,2 @@
-- Druid master for [[Balam (Marianne)]]
+- Druid master for [[Balam]]
 - Master of the [[Keri]] healer helping the [[Kaesu]]

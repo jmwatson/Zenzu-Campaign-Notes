@@ -1,3 +1,4 @@
+**Player**: Xavier
 - Half Orc Cleric
     
     - Cleric of Sune, goddess of Beauty
