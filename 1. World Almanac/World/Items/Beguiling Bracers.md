@@ -1,0 +1,3 @@
+- +1 AC
+- 2 x per long rest Beguile
+    - When enemies melee attack, an ally within 15 feet can disengage (if needed) and move to a space next to me to melee attack the enemy melee attacking me.

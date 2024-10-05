@@ -1,38 +1,43 @@
 **Player**: Javonni
-- Human Paladin
-- [https://www.dndbeyond.com/characters/82544418](https://www.dndbeyond.com/characters/82544418)
+**Ancestry**: Human
+**Class**: Paladin
+**Tribe**: [[Temukan]]
+**Halcyon Artifact**: [[Guzenga]]
+**Character Sheet**: [Bayarma](https://www.dndbeyond.com/characters/82544418)
 
-![[Bayarma.png]]
+> [!example]- Allies
+> #### Adopted Family
+> **Father**: Semsochi Gegeen
+> **Mother**: Cirina Gegeen
+> **Brother**: Kutlugh Gegeen - married to Altansarnai
+> **Brother**: Kiritlugh Gegeen
+> **Brother**: Arslan Gegeen
+> **Sister**: Silun Gorgelji
+> **Sister**: Alagh Yid Gegeen
+> **Sister**: Etugen Eke Gegeen
+> **Sister**: Oyuun Gegeen
+> 
+> #### Biological Family
+> **Father**: Shiraghul Jayaatu
+> **Mother**: Cota Gegeen
 
-Oyuun – Tanner  
-Has daughters and sons presently unnamed
+> [!example]- Enemies
 
-Guzenga (Halcyon Armor)
+> [!example]- Notes
+> Horse: Chimeg
+> 
+> Oyuun – Tanner
+> Has daughters and sons presently unnamed
+> 
+> Before parting and after killing Myeong Hwan, Zant looks at Bayarma and says "why don’t you check the black market?"
+> 
+> Guzenga not a part of personal quest, still need to look for the chest for Bayarma.
+> 
+> Ancient word for Luster on my neck in old Stellosian (symbol)
+> 
+> Cougar mask
+> 
+> Went to Black market, now fighting the group fighting for the trunk that holds Bayarma's inheritance
  
-- Shiny Plate Mail - 20AC
-- Stealth – No penalty
-- Blinding Glare (Bonus Action) - Cheng may Change
-    
-    - Twice per long rest, give a single target within 30 feet disadvantage on all attacks during its next turn
-- Shiny Object (
-    
-    - Target must beat spell save dc+3 or attack byarma for the next turn
-- Reduces all Damage taken by 1d6
-- Use an action during a fight to summon Guzenga from anywhere
-
-Before parting and after killing Myeong Hwan, Zant looks at Bayarma and says "why don’t you check the black market?"
-
-Guzenga not a part of personal quest, still need to look for the chest for Bayarma.
-
-Ancient word for Luster on my neck in old Stellosian (symbol)
- 
-Cougar mask
- 
-Went to Black market, now fighting the group fighting for the trunk that holds Bayarma's inheritance
- 
-Beguiling Bracers
-
-- +1 AC
-- 2 x per long rest Beguile
-    
-    - When enemies melee attack, an ally within 15 feet can disengage (if needed) and move to a space next to me to melee attack the enemy melee attacking me.
+> [!example]- Notable Items
+> [[Beguiling Bracers]]

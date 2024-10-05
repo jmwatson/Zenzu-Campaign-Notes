@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703ea0eccac56b62",
+            "id": "a6839b39949ce5c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
+                "file": "1. The Party/Merric.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Guilds and Groups/Council of Five.md",
+                "file": "1. World Almanac/World/Guilds and Groups/Sehi Jujin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "970edc782fd53b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Non-Player Characters/Sunwei Tianfu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be5f0e5a2540c9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Runes/Alone.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
+                "file": "1. The Party/Merric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
+                "file": "1. The Party/Merric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md"
+                "file": "1. The Party/Merric.md"
               }
             }
           },
@@ -192,53 +218,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "703ea0eccac56b62",
+  "active": "a6839b39949ce5c5",
   "lastOpenFiles": [
+    "1. World Almanac/World/Guilds and Groups/Sehi Jujin.md",
+    "1. World Almanac/World/Non-Player Characters/Riku Masay.md",
+    "1. World Almanac/World/Guilds and Groups/Council of Five.md",
+    "Ren.md",
+    "1. The Party/Merric.md",
+    "1. World Almanac/World/Non-Player Characters/Zant.md",
+    "1. World Almanac/World/Runes/Alone.md",
+    "1. World Almanac/Runes",
+    "1. World Almanac/World/Non-Player Characters/Sunwei Tianfu.md",
+    "1. World Almanac/World/Non-Player Characters/Lai Tenko.md",
+    "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
+    "1. World Almanac/World/Non-Player Characters/Ren Kama.md",
+    "1. World Almanac/World/Non-Player Characters/new NPC.md",
+    "1. World Almanac/World/Non-Player Characters/Myeong Hwan.md",
+    "1. The Party/Cephos.md",
+    "1. The Party/Balam.md",
+    "1. The Party/Bayarma.md",
+    "1. World Almanac/World/Items/Beguiling Bracers.md",
+    "Bayarma.png.md",
+    "z_Assets/Bayarma/Bayarma.png",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Guzenga.md",
+    "1. World Almanac/World/Items/Halcyon Artifacts",
+    "2. Session Journals/2023-08-06.md",
+    "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
     "1. World Almanac/World/Non-Player Characters/Chief Zho (A Longhu Clan Elder).md",
     "1. The Party/Toshiro (Svender Berg).md",
     "2. Session Journals/2024-05-26 (Unarmed Combat).md",
-    "1. The Party/Balam.md",
-    "1. The Party/Bayarma.md",
-    "1. The Party/Cephos.md",
-    "1. The Party/Merric.md",
     "1. The Party/Skashoon.md",
     "1. World Almanac/World/Guilds and Groups/House Gensling.md",
-    "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
-    "1. World Almanac/World/Non-Player Characters/Chiset.md",
-    "z_Assets/Elisha (Tasha Gensling)/Elisha (Tasha Gensling).png",
+    "z_Assets/NPCs/Elisha (Tasha Gensling)/Elisha (Tasha Gensling).png",
     "1. World Almanac/World/Non-Player Characters/Untitled",
     "z_Assets/NPCs/Wu Sifang/Wu Sifang.png",
     "z_Assets/NPCs/Unnamed Fighter",
     "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-3.png",
     "z_Assets/NPCs/Wu Sifang",
     "z_Assets/NPCs/Unnamed Fighter/Fighter.png",
-    "2. Session Journals/2024-03-17.md",
-    "2. Session Journals/2023-08-13.md",
-    "Lai.md",
     "z_Assets/NPCs/Vermillian's at the Tower/Marcus Alexander.png",
     "z_Assets/NPCs/Vermillian's at the Tower/Female.png",
     "z_Assets/NPCs/Riku Masay/Riku Masey.png",
     "z_Assets/NPCs/Zhao Lu/Zhao Lu.png",
-    "2. Session Journals/2024-08-25.md",
     "z_Assets/Groups",
     "z_Assets/NPCs",
     "z_Assets/2024-08-25.md/Exported image 20240830122508-0.png",
-    "2. Session Journals/2024-08-11 (Lifting Event).md",
     "z_Assets/Groups/Lein Sho's Five",
-    "z_Assets/Groups/Lein Sho's Five/Lein Sho's Five.png",
-    "2. Session Journals/2024-07-28 (Running Event).md",
     "z_Assets/NPCs/Sujin",
-    "z_Assets/NPCs/Tseren",
-    "2. Session Journals/2024-04-14.md",
-    "z_Assets/NPCs/Monkhba Esen",
-    "2. Session Journals/2024-04-21.md",
-    "z_Assets/NPCs/Zhao Lu",
-    "2. Session Journals/2024-02-11.md",
-    "1. World Almanac/World/Non-Player Characters/Chief Eigara Daryu.md",
-    "2. Session Journals/2023-08-27.md",
-    "1. World Almanac/World/Non-Player Characters/Diyu Korros.md",
-    "1. World Almanac/World/Non-Player Characters/Eigara Salkei.md",
-    "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
-    "2. Session Journals/2023-09-22.md"
+    "z_Assets/NPCs/Tseren"
   ]
 }

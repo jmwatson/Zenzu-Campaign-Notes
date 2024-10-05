@@ -1,3 +1,5 @@
-- **Leader**: [[Relera Imministel]]
-- Main governing body in [Zenzu](Zenzu).
-- Located in [[Opalia (Capitol – Center)]].
+**Leader**: [[Relera Imministel]]
+**Headquarters**: [[Opalia (Capitol – Center)]]
+
+> [!example]- Notes
+> Main governing body in [Zenzu](Zenzu).
