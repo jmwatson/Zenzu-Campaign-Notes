@@ -1,8 +1,9 @@
-- Wife of [[Hido Iwarui (Dead Bad Guy of Frogs & Eagles)]]
-- Believes [[Hido Iwarui (Dead Bad Guy of Frogs & Eagles)]] was apparently getting a medicine
+- Wife of [[Hido Iwarui (Dead Bad Guy of Frogs & Eagles)|Hido Iwarui]]
+- Believes [[Hido Iwarui (Dead Bad Guy of Frogs & Eagles)|Hido]] was apparently getting a medicine
 - Daughter (Koshi) is coughing up black stuff and her veins are turning black, has been going on for ~15 days
 - 2nd Tallest Building in Blue Moon district with a red awning on the first floor
 - Small 1 bedroom flat, Koshi's bed is in living room
-- Paladin detects that it is demonic
-- Paladin Lays on Hands – color returns to her skin, black recedes some, then comes back, not as strong as before
+- [[Bayarma]] detects that it is demonic
+- [[Bayarma]] Lays on Hands – color returns to her skin, black recedes some, then comes back, not as strong as before
 - Check with local church/temple/clergy
+	- Setup a plan for someone to visit and help do the Lay on Hands trick for Koshi on a regular basis

@@ -4,68 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e49465862fca7f29",
+        "id": "54a3d75c82e2872c",
         "type": "tabs",
         "children": [
           {
-            "id": "a6839b39949ce5c5",
+            "id": "aa19c642c012564d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. The Party/Merric.md",
+                "file": "2. Session Journals/2024-10-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1aee16f6272ef5a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "187e21e720daf1aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. World Almanac/World/Guilds and Groups/Sehi Jujin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-27"
             }
           },
           {
-            "id": "970edc782fd53b6c",
+            "id": "9c84c9ac92c6fc2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Non-Player Characters/Sunwei Tianfu.md",
+                "file": "2. Session Journals/2024-11-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "be5f0e5a2540c9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. World Almanac/World/Runes/Alone.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -100,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -108,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -131,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. The Party/Merric.md",
+                "file": "2. Session Journals/2024-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +118,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-03"
             }
           },
           {
@@ -148,10 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. The Party/Merric.md",
+                "file": "2. Session Journals/2024-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-03"
             }
           },
           {
@@ -162,7 +145,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -171,8 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. The Party/Merric.md"
-              }
+                "file": "2. Session Journals/2024-11-03.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-03"
             }
           },
           {
@@ -180,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -195,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -218,37 +209,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6839b39949ce5c5",
+  "active": "9c84c9ac92c6fc2e",
   "lastOpenFiles": [
-    "1. World Almanac/World/Guilds and Groups/Sehi Jujin.md",
-    "1. World Almanac/World/Non-Player Characters/Riku Masay.md",
-    "1. World Almanac/World/Guilds and Groups/Council of Five.md",
-    "Ren.md",
-    "1. The Party/Merric.md",
-    "1. World Almanac/World/Non-Player Characters/Zant.md",
-    "1. World Almanac/World/Runes/Alone.md",
-    "1. World Almanac/Runes",
-    "1. World Almanac/World/Non-Player Characters/Sunwei Tianfu.md",
-    "1. World Almanac/World/Non-Player Characters/Lai Tenko.md",
     "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
-    "1. World Almanac/World/Non-Player Characters/Ren Kama.md",
-    "1. World Almanac/World/Non-Player Characters/new NPC.md",
-    "1. World Almanac/World/Non-Player Characters/Myeong Hwan.md",
-    "1. The Party/Cephos.md",
-    "1. The Party/Balam.md",
-    "1. The Party/Bayarma.md",
-    "1. World Almanac/World/Items/Beguiling Bracers.md",
-    "Bayarma.png.md",
-    "z_Assets/Bayarma/Bayarma.png",
+    "2. Session Journals/2024-11-03.md",
+    "1. World Almanac/World/Non-Player Characters/Li Zhu Kong.md",
+    "2. Session Journals/2024-10-27.md",
+    "1. World Almanac/World/Lore/Elegy of Fallen Angels.md",
+    "1. World Almanac/World/Lore/Giant Eagles.md",
+    "1. World Almanac/World/Storylines/Naki & Koshi (Opalia).md",
+    "1. World Almanac/Cheng's Previous Campaign Recap/Prior Campaign Recap – From Emails.md",
+    "1. World Almanac/Cheng's Previous Campaign Recap/Character Creation and Zenzu Lore.md",
+    "1. World Almanac/World/Historic Events/Cycle of Renewal.md",
+    "1. World Almanac/World/Historic Events/Fallen Angels War.md",
+    "1. World Almanac/World/Non-Player Characters/Mystrallas.md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Teifing.md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Nengurak.md",
     "1. World Almanac/World/Items/Halcyon Artifacts/Guzenga.md",
-    "1. World Almanac/World/Items/Halcyon Artifacts",
-    "2. Session Journals/2023-08-06.md",
-    "1. World Almanac/World/Non-Player Characters/Elisha (Tasha Gensling).md",
-    "1. World Almanac/World/Non-Player Characters/Chief Zho (A Longhu Clan Elder).md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Leitosen.md",
     "1. The Party/Toshiro (Svender Berg).md",
-    "2. Session Journals/2024-05-26 (Unarmed Combat).md",
+    "2. Session Journals/2024-09-29.md",
+    "1. World Almanac/World/Non-Player Characters/Hido Iwarui (Dead Bad Guy of Frogs & Eagles).md",
+    "1. The Party/Cephos.md",
     "1. The Party/Skashoon.md",
-    "1. World Almanac/World/Guilds and Groups/House Gensling.md",
+    "Untitled.canvas",
+    "1. World Almanac/World/Non-Player Characters/Naki.md",
+    "1. World Almanac/World/Storylines/Chosen Ones.md",
+    "1. World Almanac/World/Guilds and Groups/Heroes of Halcyon.md",
+    "1. World Almanac/World/Non-Player Characters/Kiihar.md",
+    "1. World Almanac/World/Non-Player Characters/Izum.md",
+    "z_Assets/Party/Cephos/Cephos.png",
+    "z_Assets/Party/Cephos",
+    "z_Assets/Party",
+    "1. World Almanac/Runes",
+    "z_Assets/Bayarma/Bayarma.png",
+    "1. World Almanac/World/Items/Halcyon Artifacts",
     "z_Assets/NPCs/Elisha (Tasha Gensling)/Elisha (Tasha Gensling).png",
     "1. World Almanac/World/Non-Player Characters/Untitled",
     "z_Assets/NPCs/Wu Sifang/Wu Sifang.png",
@@ -262,9 +257,6 @@
     "z_Assets/NPCs/Zhao Lu/Zhao Lu.png",
     "z_Assets/Groups",
     "z_Assets/NPCs",
-    "z_Assets/2024-08-25.md/Exported image 20240830122508-0.png",
-    "z_Assets/Groups/Lein Sho's Five",
-    "z_Assets/NPCs/Sujin",
-    "z_Assets/NPCs/Tseren"
+    "z_Assets/Groups/Lein Sho's Five"
   ]
 }

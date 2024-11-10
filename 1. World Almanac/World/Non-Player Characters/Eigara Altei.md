@@ -1,4 +1,7 @@
 - Son of Chief
 - Blacksmith
-- [Wanted ore]((Tsagan%20Hills)%20Mine%20some%20Iron.md) – see foreman Gantul - COMPLETE
-- Added blue ore to Toshiro's Halberd
+> [!example]+ Storylines
+> [[(Tsagan Hills) Mine some Iron|Mine some Iron (Complete)]]
+> Added blue ore to Toshiro's Halberd
+> - Blue ore granted the halberd a +1 property
+

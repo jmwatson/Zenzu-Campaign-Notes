@@ -1,7 +1,7 @@
 **Player**: Zack
 **Ancestry**: Halfling
 **Class**: Warlock
-**Tribe**: [[Kaesu]]
+**Tribe**: [[Longhu]]
 **Halcyon Artifact**: Unknown
 **Character Sheet**: [Merric](https://www.dndbeyond.com/characters/81607186)
 

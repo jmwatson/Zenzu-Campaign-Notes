@@ -1,3 +1,4 @@
 - Son of [[Chief Eigara Daryu]]
 - Sheepherd?
-- [[(Tsagan Hills) Gather Salt for the Sheep]] - COMPLETE
+> [!example]+ Storylines
+> [[(Tsagan Hills) Gather Salt for the Sheep| Gather Salt for the Sheep (Complete)]]

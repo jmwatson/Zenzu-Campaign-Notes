@@ -1,0 +1,9 @@
+- Scroll showed us that we are the ones to gain the special weapons of [[Zenzu (Country – West)|Zenzu]]
+- Didn't show us the [[Heroes of Halcyon]] in the vision of us fighting the demons
+- Currently pointing us to the north so we found a caravan heading to the [[Temukan]]
+- Made camp just south of the lake to the north
+    - Wolf encounter avoided by the druid talking to the wolves
+        - "Woof woof woofity woof" means "Hello, are you there?"
+- Headed north to [[Mount Tragaan (North Tsagan Hills)]]
+- Found Teafing bow one of the artifacts we are destined to have
+- After getting back to Opalia, the scroll pointed us to the north west
