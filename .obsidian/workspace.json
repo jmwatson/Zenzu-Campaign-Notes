@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/2024-12-01.md",
+                "file": "2. Session Journals/2023-07-23.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2024-12-01"
+              "title": "2023-07-23"
             }
           },
           {
@@ -28,13 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/2024-12-08.md",
+                "file": "2. Session Journals/2025-04-27.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2024-12-08"
+              "title": "2025-04-27"
             }
           },
           {
@@ -43,30 +61,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/2024-12-22.md",
+                "file": "2. Session Journals/2025-05-25.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2024-12-22"
+              "title": "2025-05-25"
             }
           },
           {
-            "id": "936bdcd6468bd554",
+            "id": "25cbf8a78ad5e8b2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "2. Session Journals/2025-06-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "2025-06-01"
+            }
+          },
+          {
+            "id": "8955de376af6a8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/2025-06-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-08"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +147,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -237,34 +300,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "936bdcd6468bd554",
+  "active": "8955de376af6a8eb",
   "lastOpenFiles": [
-    "2. Session Journals/2025-04-06.md",
-    "2. Session Journals/2024-12-22.md",
+    "Untitled.md",
+    "2. Session Journals/2025-06-08.md",
+    "2. Session Journals/2025-06-01.md",
+    "Pasted image 20250427192802.png",
+    "z_Assets/NPCs/Chojin.png",
+    "2. Session Journals/2025-04-27.md",
+    "2. Session Journals/2025-05-25.md",
+    "z_Assets/NPCs/Keri/Keri (teen).png",
+    "2. Session Journals/2023-07-23.md",
+    "2. Session Journals/2023-08-06.md",
+    "2. Session Journals/2023-07-30.md",
+    "2. Session Journals/2023-08-27.md",
+    "2. Session Journals/2023-08-20.md",
     "2. Session Journals/2024-12-08.md",
+    "2. Session Journals/2023-06-30.md",
+    "2. Session Journals/2023-07-09.md",
+    "2. Session Journals/2024-09-29.md",
+    "2. Session Journals/2024-09-15.md",
+    "2. Session Journals/2025-04-06.md",
     "2. Session Journals/2024-12-01.md",
     "2. Session Journals/2024-11-24.md",
-    "2. Session Journals/2023-04-22.md",
-    "2. Session Journals/2023-07-23.md",
-    "2. Session Journals/2023-07-09.md",
-    "2. Session Journals/2023-06-02.md",
     "2. Session Journals/2024-11-17.md",
+    "2. Session Journals/2024-12-22.md",
+    "2. Session Journals/2023-04-22.md",
+    "2. Session Journals/2023-06-02.md",
     "2. Session Journals/2024-11-10.md",
-    "2. Session Journals/2024-09-29.md",
     "2. Session Journals/2024-09-02.md",
-    "2. Session Journals/2024-09-15.md",
     "2. Session Journals/2024-10-27.md",
     "2. Session Journals/2024-11-03.md",
-    "1. The Party/Balam.md",
-    "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
-    "1. World Almanac/World/Non-Player Characters/Li Zhu Kong.md",
-    "1. World Almanac/World/Lore/Elegy of Fallen Angels.md",
-    "1. World Almanac/World/Lore/Giant Eagles.md",
-    "1. World Almanac/World/Storylines/Naki & Koshi (Opalia).md",
-    "1. World Almanac/Cheng's Previous Campaign Recap/Prior Campaign Recap – From Emails.md",
-    "1. World Almanac/Cheng's Previous Campaign Recap/Character Creation and Zenzu Lore.md",
-    "1. World Almanac/World/Historic Events/Cycle of Renewal.md",
-    "1. World Almanac/World/Historic Events/Fallen Angels War.md",
     "Untitled.canvas",
     "z_Assets/Party/Cephos/Cephos.png",
     "z_Assets/Party/Cephos",
@@ -280,9 +346,6 @@
     "z_Assets/NPCs/Wu Sifang",
     "z_Assets/NPCs/Unnamed Fighter/Fighter.png",
     "z_Assets/NPCs/Vermillian's at the Tower/Marcus Alexander.png",
-    "z_Assets/NPCs/Vermillian's at the Tower/Female.png",
-    "z_Assets/NPCs/Riku Masay/Riku Masey.png",
-    "z_Assets/NPCs/Zhao Lu/Zhao Lu.png",
     "z_Assets/Groups",
     "z_Assets/NPCs",
     "z_Assets/Groups/Lein Sho's Five"

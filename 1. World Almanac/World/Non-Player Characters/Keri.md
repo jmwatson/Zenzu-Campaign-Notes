@@ -1,4 +1,4 @@
-![[Keri.png]]
+![[z_Assets/NPCs/Keri/Keri.png]]
 
 - Apprentice of [[Han Li Ngo]] specializing in healing
 - Elven
