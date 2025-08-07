@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ee17d28901be0ef",
+            "id": "2a39081195128805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/2023-07-23.md",
+                "file": "2. Session Journals/2025-07-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2023-07-23"
+              "title": "2025-07-13"
             }
           },
           {
-            "id": "3f8cab70d8cb8787",
+            "id": "314483f3ed34cc67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/2025-04-27.md",
+                "file": "1. World Almanac/World/Items/Halcyon Artifacts/Leitosen (The Star of Light).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-27"
-            }
-          },
-          {
-            "id": "09e157b67644ab8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/2025-05-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-25"
-            }
-          },
-          {
-            "id": "25cbf8a78ad5e8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/2025-06-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-01"
-            }
-          },
-          {
-            "id": "8955de376af6a8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/2025-06-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-08"
+              "title": "Leitosen (The Star of Light)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,38 +228,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8955de376af6a8eb",
+  "active": "314483f3ed34cc67",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "z_Assets/Groups/Lein Sho's Five/Lein Sho's Five.png",
+    "z_Assets/Groups/Halcyon Heroes/Halcyon Heroes.png",
+    "z_Assets/Misc/ImagePlaceholder.png",
+    "Pasted image 20250427192802.png",
     "Untitled.md",
+    "README.md",
+    "1. The Party/Cephos.md",
+    "2. Session Journals/2025-08-03.md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Leitosen (The Star of Light).md",
+    "2. Session Journals/2025-07-27.md",
+    "2. Session Journals/2025-07-13.md",
+    "2. Session Journals/2025-06-22.md",
+    "2. Session Journals/2025-06-09.md",
     "2. Session Journals/2025-06-08.md",
     "2. Session Journals/2025-06-01.md",
-    "Pasted image 20250427192802.png",
-    "z_Assets/NPCs/Chojin.png",
+    "2. Session Journals/2023-07-23.md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Sehiju (The Star of Ending).md",
     "2. Session Journals/2025-04-27.md",
     "2. Session Journals/2025-05-25.md",
+    "1. World Almanac/World/Spells/Lightning Bolt (Leitosen).md",
+    "1. World Almanac/World/Spells/Blink Strike.md",
+    "1. World Almanac/World/Spells/End Spell.md",
+    "1. World Almanac/World/Spells/Dampen.md",
+    "1. World Almanac/World/Spells/Counterspell.md",
+    "1. World Almanac/World/Spells",
+    "z_Assets/NPCs/Chojin.png",
     "z_Assets/NPCs/Keri/Keri (teen).png",
-    "2. Session Journals/2023-07-23.md",
     "2. Session Journals/2023-08-06.md",
     "2. Session Journals/2023-07-30.md",
     "2. Session Journals/2023-08-27.md",
     "2. Session Journals/2023-08-20.md",
     "2. Session Journals/2024-12-08.md",
-    "2. Session Journals/2023-06-30.md",
-    "2. Session Journals/2023-07-09.md",
-    "2. Session Journals/2024-09-29.md",
-    "2. Session Journals/2024-09-15.md",
-    "2. Session Journals/2025-04-06.md",
-    "2. Session Journals/2024-12-01.md",
-    "2. Session Journals/2024-11-24.md",
-    "2. Session Journals/2024-11-17.md",
-    "2. Session Journals/2024-12-22.md",
-    "2. Session Journals/2023-04-22.md",
-    "2. Session Journals/2023-06-02.md",
-    "2. Session Journals/2024-11-10.md",
-    "2. Session Journals/2024-09-02.md",
-    "2. Session Journals/2024-10-27.md",
-    "2. Session Journals/2024-11-03.md",
-    "Untitled.canvas",
     "z_Assets/Party/Cephos/Cephos.png",
     "z_Assets/Party/Cephos",
     "z_Assets/Party",
@@ -342,12 +273,8 @@
     "1. World Almanac/World/Non-Player Characters/Untitled",
     "z_Assets/NPCs/Wu Sifang/Wu Sifang.png",
     "z_Assets/NPCs/Unnamed Fighter",
-    "z_Assets/2024-05-26 (Unarmed Combat).md/Exported image 20240830122502-3.png",
     "z_Assets/NPCs/Wu Sifang",
-    "z_Assets/NPCs/Unnamed Fighter/Fighter.png",
-    "z_Assets/NPCs/Vermillian's at the Tower/Marcus Alexander.png",
     "z_Assets/Groups",
-    "z_Assets/NPCs",
-    "z_Assets/Groups/Lein Sho's Five"
+    "z_Assets/NPCs"
   ]
 }
