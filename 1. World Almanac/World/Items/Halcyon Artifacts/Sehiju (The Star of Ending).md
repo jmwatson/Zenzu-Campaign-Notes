@@ -9,9 +9,10 @@
 > [!example]+ Special Abilities
 > ***Bring to an End***:
 > Useable twice per long rest Pick an affliction and end it.
-> ***Dampen***:
+> ***[[Dampen]]***:
 > Useable twice per long rest Halves AoE spell damage.
-> ***Counterspell***:
+> ***[[Counterspell]]***:
 > Useable once per long rest Normal Counterspell.
-> ***End Spell***:
+> ***[[End Spell]]***:
 > Useable once per long rest Buffed Counterspell.
+

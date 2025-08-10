@@ -2,7 +2,7 @@
 **Ancestry**: Wood Elf
 **Class**: Druid
 **Tribe**: [[Kaesu]]
-**Halcyon Artifact**: Unknown
+**Halcyon Artifact**: [[Nengurak]]
 **Character Sheet**: [Balam](https://www.dndbeyond.com/characters/82934929)
 
 > [!example]- Allies
@@ -20,3 +20,4 @@
  
 > [!example]- Notable Items
 > [[Beguiling Bracers]]
+

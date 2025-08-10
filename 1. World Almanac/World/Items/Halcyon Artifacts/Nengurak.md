@@ -13,3 +13,4 @@
 > Comprehend Languages 2/long rest
 > Phantasmal Force 1/long rest
 > Compulsion 1/long rest no concentration 
+

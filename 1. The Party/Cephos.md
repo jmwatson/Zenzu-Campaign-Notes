@@ -24,3 +24,4 @@
  
 > [!example]- Notable Items
 > Cursed Necklace of Jordo
+

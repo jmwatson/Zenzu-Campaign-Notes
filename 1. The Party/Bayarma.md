@@ -1,4 +1,4 @@
-**Player**: Javonni
+**Player**: Bridget
 **Ancestry**: Human
 **Class**: Paladin
 **Tribe**: [[Temukan]]
@@ -41,3 +41,4 @@
  
 > [!example]- Notable Items
 > [[Beguiling Bracers]]
+
