@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/Session Timeline.md",
+                "file": "2. Session Journals/Sessions/2025-08-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session Timeline"
+              "title": "2025-08-03"
             }
           },
           {
-            "id": "af4287286c8458bb",
+            "id": "f0eb8a8cf7f118b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. The Party/Toshiro (Svender Berg).md",
+                "file": "2. Session Journals/Sessions/2025-08-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Toshiro (Svender Berg)"
+              "title": "2025-08-13"
             }
           }
         ],
@@ -231,40 +231,43 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "af4287286c8458bb",
+  "active": "f0eb8a8cf7f118b1",
   "lastOpenFiles": [
-    "1. The Party/Cephos.md",
-    "1. The Party/Bayarma.md",
-    "1. The Party/Balam.md",
-    "1. World Almanac/World/Items/Halcyon Artifacts/Nengurak.md",
-    "2. Session Journals/Sessions/2023-06-11.md",
+    "2. Session Journals/Sessions/2025-08-03.md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Teifing (The Star of Wind).md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Guzenga (The Star of Luster).md",
+    "1. World Almanac/World/Items/Halcyon Artifacts/Nengurak (The Star of the Maniac).md",
+    "2. Session Journals/Sessions/2025-08-13.md",
     "2. Session Journals/Session Timeline.md",
-    "2. Session Journals/Sessions/2022-11-19.md",
-    "2. Session Journals/Sessions/2022-10-29.md",
-    "1. World Almanac/World/Items/Halcyon Artifacts/Sehiju (The Star of Ending).md",
-    "2. Session Journals/Sessions",
-    "1. World Almanac/World/Spells/Dampen.md",
-    "1. World Almanac/World/Items/Halcyon Artifacts/Leitosen (The Star of Light).md",
-    "2. Session Journals/Sessions/2025-07-13.md",
-    "Bend.md",
-    "1. World Almanac/World/Spells/Bend the Light.md",
-    "2. Session Journals/Sessions/2023-04-01.md",
+    "2. Session Journals/Sessions/2025-07-27.md",
+    "1. World Almanac/World/Guilds and Groups/Dark Chosen.md",
+    "1. The Party/Toshiro (Svender Berg).md",
+    "1. World Almanac/World/Non-Player Characters/Izum.md",
+    "1. World Almanac/World/Non-Player Characters/Hido Iwarui (Dead Bad Guy of Frogs & Eagles).md",
+    "1. World Almanac/World/Non-Player Characters/Han Li Ngo.md",
+    "1. World Almanac/World/Non-Player Characters/Garin Kaidu.md",
+    "1. World Almanac/World/Non-Player Characters/Diyu Korros.md",
+    "1. World Almanac/World/Non-Player Characters/Chiset.md",
+    "1. World Almanac/World/Non-Player Characters/Zant.md",
+    "1. World Almanac/World/Non-Player Characters/Wu Fei Yi.md",
+    "1. World Almanac/World/Non-Player Characters/Ukki.md",
+    "1. World Almanac/World/Non-Player Characters/Sunwei Tianfu.md",
+    "1. World Almanac/World/Non-Player Characters/Shodaku Kimuna (Hinoko Leader).md",
+    "1. World Almanac/World/Non-Player Characters/Shimarra.md",
+    "1. World Almanac/World/Non-Player Characters/Riku Masay.md",
+    "1. World Almanac/World/Non-Player Characters/Renzo.md",
+    "1. World Almanac/World/Non-Player Characters/Ren Kama.md",
+    "1. World Almanac/World/Non-Player Characters/Relera Imministel.md",
+    "1. World Almanac/World/Non-Player Characters/Namso Leejong (Kaesu Leader).md",
+    "Pasted image 20250427192802.png",
+    "z_Assets/Party/Toshiro/Toshiro.jpg",
+    "z_Assets/Party/Toshiro",
     "Untitled.canvas",
-    "Untitled.md",
-    "README.md",
-    "1. World Almanac/World/Items/Halcyon Artifacts/Guzenga.md",
+    "SevenSamurai.jpg",
+    "2. Session Journals/Sessions",
     "z_Assets/Groups/Lein Sho's Five/Lein Sho's Five.png",
     "z_Assets/Groups/Halcyon Heroes/Halcyon Heroes.png",
     "z_Assets/Misc/ImagePlaceholder.png",
-    "Pasted image 20250427192802.png",
-    "2. Session Journals/Sessions/2025-08-03.md",
-    "2. Session Journals/Sessions/2025-07-27.md",
-    "2. Session Journals/Sessions/2025-06-22.md",
-    "2. Session Journals/Sessions/2025-06-09.md",
-    "2. Session Journals/Sessions/2025-06-08.md",
-    "2. Session Journals/Sessions/2025-06-01.md",
-    "2. Session Journals/Sessions/2023-07-23.md",
-    "2. Session Journals/Sessions/2025-04-27.md",
     "1. World Almanac/World/Spells",
     "z_Assets/NPCs/Chojin.png",
     "z_Assets/NPCs/Keri/Keri (teen).png",
@@ -274,11 +277,8 @@
     "1. World Almanac/Runes",
     "z_Assets/Bayarma/Bayarma.png",
     "1. World Almanac/World/Items/Halcyon Artifacts",
-    "z_Assets/NPCs/Elisha (Tasha Gensling)/Elisha (Tasha Gensling).png",
     "1. World Almanac/World/Non-Player Characters/Untitled",
-    "z_Assets/NPCs/Wu Sifang/Wu Sifang.png",
     "z_Assets/NPCs/Unnamed Fighter",
-    "z_Assets/NPCs/Wu Sifang",
-    "z_Assets/Groups"
+    "z_Assets/NPCs/Wu Sifang"
   ]
 }

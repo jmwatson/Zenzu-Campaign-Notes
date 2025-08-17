@@ -2,7 +2,7 @@
 **Ancestry**: Wood Elf
 **Class**: Druid
 **Tribe**: [[Kaesu]]
-**Halcyon Artifact**: [[Nengurak]]
+**Halcyon Artifact**: [[Nengurak (The Star of the Maniac)]]
 **Character Sheet**: [Balam](https://www.dndbeyond.com/characters/82934929)
 
 > [!example]- Allies

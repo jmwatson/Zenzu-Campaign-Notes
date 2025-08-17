@@ -2,7 +2,7 @@
 **Ancestry**: Human
 **Class**: Paladin
 **Tribe**: [[Temukan]]
-**Halcyon Artifact**: [[Guzenga]]
+**Halcyon Artifact**: [[Guzenga (The Star of Luster)]]
 **Character Sheet**: [Bayarma](https://www.dndbeyond.com/characters/82544418)
 
 > [!example]- Allies
