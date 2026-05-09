@@ -7,7 +7,7 @@
 - [[Kiihar]] - "400 years ago he tried to turn the people of the far east with a water elemental but was stopped by a group of 6 adventurers then but I won't be stopped now!" 
 - [[Kiihar]] grabs onto [[Toshiro (Svender Berg)]] and [[Cephos]] and bashes them together and knocks [[Toshiro (Svender Berg)]] unconscious 
 - [[Bayarma]] with all her holy might calls down the might of her oath to slash at [[Kiihar]] and kill him with an incredible crit and 3rd level smite 
-- [[Kiihar]]'s demon form disolves and leaves behind a box that has a rune on it 
+- [[Kiihar]]'s demon form dissolves and leaves behind a box that has a rune on it 
 - [[Sunwei Tianfu]] and [[Basayar Uurdogo (Temukan Leader)]] shows up with horses and we take the horses and ride to the west 
 - [[Toshiro (Svender Berg)]] manages to grab [[Riku Masay]]'s corpse and pull it onto his horse 
 - [[Basayar Uurdogo (Temukan Leader)]] says to [[Skashoon]], "Find you clans men. Save [[Zenzu (Country – West)]]!" 

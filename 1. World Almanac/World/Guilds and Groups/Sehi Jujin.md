@@ -5,6 +5,11 @@
 > [!example]+ Members
 > [[Riku Masay]]
 > [[Zant]]
+> [[Ren Kama]] (Western Claw)
+> [[Shodaku Kimuna (Hinoko Leader)]] (Possible Northern Fang)
+> [[Jin]] (Eastern Talon)
+> [[Chojin Ilsung]]
+> [[Garin Kaidu]]
 
 > [!example]- Notes
 > Sehi Ju De Hasijin is their true name and means "The end times"
@@ -15,3 +20,4 @@
 > 	- Lantern of Revealing will show the tattoo if it's light shines on it
 > They want the land [[Merric]]'s bar is on to get a spying spot next to citadel
 > They don't infiltrate the guards but it is easy to get guard uniforms to impersonate when needed
+

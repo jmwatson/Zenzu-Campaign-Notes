@@ -1,0 +1,1 @@
+- The last of Toshiro's friends that he made when he first came to Zenzu

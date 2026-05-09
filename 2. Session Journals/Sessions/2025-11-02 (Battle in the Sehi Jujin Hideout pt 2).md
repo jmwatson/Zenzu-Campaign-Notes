@@ -1,0 +1,2 @@
+- Thin wispy flames start surrounding his body
+- "I will die here, but all is going according to plan."

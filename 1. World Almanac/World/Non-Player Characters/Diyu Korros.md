@@ -1,4 +1,4 @@
-![[Diyu Korros.png]]
+![[Diyu Korros.png|150]]
 
 Diyu Korros  
 Northern Fang of the Sehi Jujin  
